@@ -1,6 +1,6 @@
 # So you decided to see the source of this magic. Well then, nothing can stop you. Just be careful!
 
-# Following line is to unlock the tool
+# Following lines are to unlock the tool
 
 LockStatus = 0 # 0 is locked, 1 is unlocked
 
